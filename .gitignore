@@ -1,0 +1,8 @@
+# ipython dirs
+.ipynb_checkpoints/*
+
+# bash tmp files
+*.swp
+
+# windows files
+thumbs.db
